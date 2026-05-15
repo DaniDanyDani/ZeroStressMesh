@@ -1,0 +1,3 @@
+[submodule "src/external/MyoMesh"]
+	path = src/external/MyoMesh
+	url = https://github.com/FISIOCOMP-UFJF/MyoMesh.git
