@@ -1,0 +1,12 @@
+name: unload-env
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.10
+  - fenics-dolfin
+  - numpy
+  - meshio
+  - matplotlib
+  - ldrb
